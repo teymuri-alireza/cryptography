@@ -1,5 +1,18 @@
 # cryptography
-A place for all cryptography and code explanations.
+A collection of cryptography algorithms and codes implemented in different programming languages.  
+This repository is intended for learning, experimentation, and demonstrating how classic and modern ciphers work.
 
-## Link to directories
-[Caesar Cipher](./caesar-cipher/)
+## Available Algorithms
+- [Caesar Cipher](./caesar-cipher/)
+- More coming soon...
+
+## Contribution
+
+### To add a new algorithm:
+- Create a directory in lower-case using dashes (e.g. `caesar-cipher`)
+- Inside it, create at least one language directory with code (e.g. `python/main.py`)
+- Document functions with comments as needed
+
+### To add a new script to an existing algorithm
+- Add a new language directory if it doesn’t exist
+- Document functions with comments as needed
