@@ -4,6 +4,7 @@ This repository is intended for learning, experimentation, and demonstrating how
 
 ## Available Algorithms
 - [Caesar Cipher](./caesar-cipher/)
+- [Vigerene Cipher](./vigerene-cipher/)
 - More coming soon...
 
 ## Contribution
