@@ -5,6 +5,7 @@ This repository is intended for learning, experimentation, and demonstrating how
 ## Available Algorithms
 - [Caesar Cipher](./caesar-cipher/)
 - [Vigerene Cipher](./vigerene-cipher/)
+- [One Time Pad](./one-time-pad/)
 - More coming soon...
 
 ## Contribution
