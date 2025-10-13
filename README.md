@@ -6,6 +6,7 @@ This repository is intended for learning, experimentation, and demonstrating how
 - [Caesar Cipher](./caesar-cipher/)
 - [Vigerene Cipher](./vigerene-cipher/)
 - [One Time Pad](./one-time-pad/)
+- [Rail Fence Cipher](./rail-fence/)
 - More coming soon...
 
 ## Contribution
