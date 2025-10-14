@@ -7,6 +7,7 @@ This repository is intended for learning, experimentation, and demonstrating how
 - [Vigerene Cipher](./vigerene-cipher/)
 - [One Time Pad](./one-time-pad/)
 - [Rail Fence Cipher](./rail-fence/)
+- [Route Cipher](./route-cipher/)
 - More coming soon...
 
 ## Contribution
