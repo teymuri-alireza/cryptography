@@ -1,0 +1,3 @@
+# Route Cipher
+
+A Route cipher is a type of transposition cipher in which a message is written in a grid and read along a specified path to produce a ciphertext. The plaintext is written row by row (or sometimes column by column) in a grid of a predetermined size, and the ciphertext is produced by reading the letters along a different path, such as a spiral, zigzag, or column. Decryption involves rewriting the ciphertext in the grid by following the ciphertext path and then reading the original plaintext in the normal order (e.g., row by row).
