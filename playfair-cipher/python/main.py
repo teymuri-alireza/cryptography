@@ -66,20 +66,20 @@ def encrypt(plain_text: str, key_list: list) -> str:
             i += 2
     plain_text = new_plain
 
-    # Every 2 characters in a plain_text is called a diagram
-    diagrams = list()
+    # Every 2 characters in a plain_text is called a digraph
+    digraphs = list()
     i = 0 
     while i < len(plain_text):
         temp_data = plain_text[i] + plain_text[i+1]
-        diagrams.append(temp_data)
+        digraphs.append(temp_data)
         i += 2
 
     result = ""
     numpy_grid = np.array(grids)
-    for group in diagrams:
+    for group in digraphs:
         first_letter = group[0]
         second_letter = group[1]
-        # Finding diagram character's index in grid
+        # Finding digraph character's index in grid
         first_place, second_place = np.argwhere(numpy_grid == first_letter), np.argwhere(numpy_grid == second_letter)
         # Make chnages and encrypt for indexes
         cipher_indexes = check_indexes(first_place, second_place)
