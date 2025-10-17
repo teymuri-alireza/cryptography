@@ -8,6 +8,7 @@ This repository is intended for learning, experimentation, and demonstrating how
 - [One Time Pad](./one-time-pad/)
 - [Rail Fence Cipher](./rail-fence/)
 - [Route Cipher](./route-cipher/)
+- [Playfair Cipher](./playfair-cipher/)
 - More coming soon...
 
 ## Contribution
