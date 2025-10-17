@@ -1,0 +1,3 @@
+# Playfair Cipher
+
+The Playfair cipher is a symmetric encryption technique that encrypts pairs of letters, called digraphs, using a 5x5 matrix created from a keyword. It was invented by Charles Wheatstone in 1854 and is named after Lyon Playfair, who promoted its use. The method encrypts digraphs based on their positions in the matrix: if letters are in the same row, they are replaced by letters to their right; if they are in the same column, they are replaced by letters below them; and if they form a rectangle, they are replaced by the letters on the same row at the opposite corners.
