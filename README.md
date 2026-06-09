@@ -1,4 +1,7 @@
 # cryptography
+
+⚠️ This project is archived and no longer maintained.
+
 A collection of cryptography algorithms and codes implemented in different programming languages.  
 This repository is intended for learning, experimentation, and demonstrating how classic and modern ciphers work.
 
